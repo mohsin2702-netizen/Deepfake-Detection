@@ -13,7 +13,7 @@ A deep learning project to detect deepfake images using a CNN model.
 - Saves the trained model
 
 ## Results
-- Test Accuracy: XX%
+- Test Accuracy: 90%
 
 ## How to run
 1. Install dependencies: `pip install -r requirements.txt`
